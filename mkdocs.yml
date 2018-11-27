@@ -2,5 +2,5 @@ site_name: My Docs
 nav:
     - Home: index.md
     - About: about.md
-    - Part 1: part1.md
+    - Part1: part1.md
 theme: readthedocs
