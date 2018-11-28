@@ -1,3 +1,7 @@
+
+Indexing makes sense for financial markets in general and for cryptocurrencies in particular.
+
+
 # Indexing and traditional finance
 
 A _passive investor_ does not try to beat the market, instead, he invests in vehicles like index funds and ETFs tracking the SP500. An _active investor_, by contrast, tries to outsmart the market by making active bets such as trying to pich the right stock. These bets make it possible for an active investor to perform better or worse than the market.
