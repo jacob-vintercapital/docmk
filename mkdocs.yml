@@ -2,7 +2,7 @@ site_name: My Docs
 nav:
     - Home: index.md
     - Introduction: 0introduction.md
-    - Part1: 1part1.md
-    - Part2: 2part2.md
-    - Part2: 3part3.md
+    - Part 1 Indexing: 1part1.md
+    - Part 2 Cryptocurrencies: 2part2.md
+    - Part 3 Our product: 3part3.md
 theme: readthedocs
