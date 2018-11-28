@@ -1,29 +1,4 @@
-
-# Our product
-
-We have created a diversified index that tracks the prices of cryptocurrencies, in a similar way that the SP500 tracks the prices of equities. It is called BlockchainX Index.
-
-We will issue an exchange-traded note that follows our index. It will be traded on regulated exchanges to provide retail and institutional investors a diversified exposure to the cryptocurrency market.
-
-# ((Introduction))
-
-[comment]: # "maybe we can have a sentence to hype it up, for example below. currently I do not think it is needed."
-
-> ((We believe we're in the early stages of something truly transformative, we believe that several things needs to be built for this to happen and we are set out to build of the infrastructure needed to be part of the disrupting force.))
-
-This Whitepaper is structured as follows.
-
-1. In Part I we explain why indexing and passive investing has grown popular the last decade. In addition, we derive explain where diversification comes from and why it improves a portfolios risk-adjusted returns.
-2. In Part II we discuss why cryptocurrencies are valuable and how they can be used.
-3. In Part III we bring up some problems with investing in cryptocurrencies and describe how our product solves these problems. We also provide what additional benefits our product brings to individual investors and the market as a whole.
-
-# Part I. Why indexing
-
-[jl comment]: # (want us to spend very little time on this point. people accept it fast, much faster than crypto.)
-
-Indexing makes sense for financial markets in general and for cryptocurrencies in particular.
-
-## Indexing and traditional finance
+# Indexing and traditional finance
 
 A _passive investor_ does not try to beat the market, instead, he invests in vehicles like index funds and ETFs tracking the SP500. An _active investor_, by contrast, tries to outsmart the market by making active bets such as trying to pich the right stock. These bets make it possible for an active investor to perform better or worse than the market.
 
@@ -56,7 +31,7 @@ He also makes a closing remark on the industry as a whole:
 > ... active investing, as structured today, is an awful business, with little to show for all the resources that are poured into it. In fact, given how much value is destroyed in this business, the surprise is not that passive investing has encroached on its territory but that active investing stays standing as a viable business.
 -->
 
-## Diversification
+# Diversification
 
 Portfolio theory has had a huge impact on finance. Markovitz, who won the 1990 Nobel Memorial Prize in Economic Sciences,  invented portfolio theory in 1952 with his famous paper titled [Portfolio Selection][markovitz-1952] published in the Journal of Finance.
 Portfolio theory changed the lens through which assets are considered. Before Markovitz, investors held a small number of stocks and tended to evaluate their stocks in isolation. Today, almost all investors evaluates their portfolio as a whole before buying or selling assets.
@@ -79,7 +54,7 @@ Here is an important but subtle point: Even though an asset like gold might have
 
 [markovitz-1952]: https://www.jstor.org/stable/2975974?seq=1#page_scan_tab_contents
 
-## Indexing and cryptocurrencies
+# Indexing and cryptocurrencies
 
 <!--- JL note to self. parallell to internet: competition of standards. -->
 
@@ -103,5 +78,3 @@ i want to tough on the idea they are communities.
 
 An investor who aligns themselves with the market would not have to do the research himself and find information about all the new projects, as well as evaluate them. If enough crypto enthusiasts believe a coin is worth investing in, they will, and when the coin has sufficient trading volume and market cap (i.e. when it is mature enough) it will enter our index so that our investors automatically include it in their porftolio. This way the investor is neither too early nor too late - being too early increases risk and being too late reduces return.
 -->
-
-
